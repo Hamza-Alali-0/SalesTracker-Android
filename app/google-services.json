@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "124860091504",
+    "firebase_url": "https://ventefacile-ecf0e-default-rtdb.firebaseio.com",
+    "project_id": "ventefacile-ecf0e",
+    "storage_bucket": "ventefacile-ecf0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124860091504:android:7e407e6ac75ebae0c4f8b5",
+        "android_client_info": {
+          "package_name": "com.example.projetandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypUA0uZQ41olGkm3-IPJ4QQeLsV-4oNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

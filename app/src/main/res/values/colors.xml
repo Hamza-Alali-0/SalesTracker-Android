@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard Android colors (required by existing theme references) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Jumia colors -->
+    <color name="jumia_orange">#F68B1E</color>
+    <color name="jumia_orange_dark">#E67300</color>
+    <color name="jumia_grey">#535353</color>
+    <color name="jumia_light_grey">#F5F5F5</color>
+    <color name="jumia_green">#2E8B57</color>
+    <color name="jumia_red">#E74C3C</color>
+
+    <!-- Material 3 colors for Morocco-themed app -->
+    <color name="md_theme_primary">#0F6B65</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#B1F0EB</color>
+    <color name="md_theme_onPrimaryContainer">#002522</color>
+    
+    <color name="md_theme_secondary">#C73E2D</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#FFD9D4</color>
+    <color name="md_theme_onSecondaryContainer">#400200</color>
+    
+    <color name="md_theme_surface">#FAFAF9</color>
+    <color name="md_theme_onSurface">#191C1C</color>
+    <color name="md_theme_surfaceVariant">#DBE4E3</color>
+    <color name="md_theme_onSurfaceVariant">#3F4948</color>
+    
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+</resources>
