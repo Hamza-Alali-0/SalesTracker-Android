@@ -35,8 +35,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
 <a href="https://github.com/YourUsername/SalesTracker-Android">
-    <img src="screens/main/dashboard.png" alt="Dashboard" width="600">
+    <img src="screens/home.jpeg" alt="Home" width="600">
 </a>
 
 SalesTracker is a comprehensive Android mobile application designed for sales management and point-of-sale operations. Built with Java and modern Android development practices, this app provides a complete solution for tracking sales, managing inventory, and analyzing business performance on the go. Key features include:
@@ -53,14 +54,15 @@ SalesTracker is a comprehensive Android mobile application designed for sales ma
 
 This project is built with the following technologies:
 
-* [![Java][Java.com]][Java-url]
-* [![Android][Android.com]][Android-url]
-* [![Firebase][Firebase.com]][Firebase-url]
-* [![Gradle][Gradle.com]][Gradle-url]
-* [![Material Design][Material.com]][Material-url]
-* [![OSMDroid][OSM.com]][OSM-url]
+- [![Java][Java.com]][Java-url]
+- [![Android][Android.com]][Android-url]
+- [![Firebase][Firebase.com]][Firebase-url]
+- [![Gradle][Gradle.com]][Gradle-url]
+- [![Material Design][Material.com]][Material-url]
+- [![OSMDroid][OSM.com]][OSM-url]
 
 <!-- Reference-style links for images -->
+
 [Java.com]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://www.java.com/
 [Android.com]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
@@ -99,13 +101,14 @@ The app uses ViewBinding and DataBinding for efficient view management, with Gra
 
 Here are some screenshots of the project:
 
-| Dashboard         | Sales Management          | Analytics |
-| ------------------- | --------------------- | -------------------- |
-| ![dashboard][dashboard-img] | ![sales][sales-img] | ![analytics][analytics-img]  |
+| Clients                     | Sales Management    | Map Location                |
+| --------------------------- | ------------------- | --------------------------- |
+| ![dashboard][dashboard-img] | ![sales][sales-img] | ![analytics][analytics-img] |
 
-[dashboard-img]: screens/main/dashboard.png
-[sales-img]: screens/sales/sales_list.png
-[analytics-img]: screens/analytics/charts.png
+[dashboard-img]: screens/clients.jpeg
+[sales-img]: screens/transaction.jpeg
+[analytics-img]: screens/map.jpeg
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -131,9 +134,11 @@ git clone https://github.com/YourUsername/SalesTracker-Android.git
 ```
 
 2. Open the project in Android Studio
+
    - File → Open → Select the project directory
 
 3. Configure Firebase
+
    - Create a new Firebase project at [Firebase Console](https://console.firebase.google.com/)
    - Add an Android app to your Firebase project
    - Download the `google-services.json` file
@@ -141,6 +146,7 @@ git clone https://github.com/YourUsername/SalesTracker-Android.git
    - Enable Firebase Authentication and Realtime Database in your Firebase console
 
 4. Update local configuration
+
    - Create or update `local.properties` with your SDK path
    - Sync Gradle files
 
